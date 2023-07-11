@@ -119,8 +119,6 @@
     display: flex;
     margin: 20px ;
     gap: 20px;
-    padding-left: 100px;
-    padding-right: 100px;
 }
 
 /* last-section */
@@ -128,8 +126,6 @@
 .content{
     position: relative;
     top: 50px;
-    padding-left: 100px;
-    padding-right: 100px;
 }
 .banner{
     position: absolute;
