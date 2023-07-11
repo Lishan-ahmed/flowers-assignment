@@ -3,9 +3,12 @@
      display: flex;
      justify-content: space-between;
      background: rgba(229, 84, 115, 0.10); 
+
 }
 .image-info{
-    vertical-align: bottom;
+    margin-bottom: 0px;
+    margin-right: 0px;
+
     
 
 }
@@ -117,7 +120,7 @@
 }
 .Social-media{
     display: flex;
-    margin: 20px ;
+    margin: auto ;
     gap: 20px;
 }
 
@@ -126,6 +129,7 @@
 .content{
     position: relative;
     top: 50px;
+    margin: auto;
 }
 .banner{
     position: absolute;
