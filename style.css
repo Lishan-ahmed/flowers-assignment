@@ -5,8 +5,9 @@
      background: rgba(229, 84, 115, 0.10); 
 }
 .image-info{
-    width: 635px;
-    height: 800px;
+    vertical-align: bottom;
+    
+
 }
 .header-info{
     color: #272727;
@@ -57,6 +58,7 @@
 .image-description{
     display: flex;
     gap: 15px;
+    padding-bottom: 0px;
     margin-top: 100px;
     justify-content: space-around;
   
@@ -121,3 +123,23 @@
 
 /* last-section */
 
+.content{
+    position: relative;
+   top: 50px;
+}
+.banner{
+    position: absolute;
+    top: 0;  
+    padding: 180px;
+    text-align: center;
+    margin-left: 200px;
+   
+}
+.input{
+    width: 450px;
+    height: 34px;
+    background: #FFF;
+    border: 0;
+}
+
+  /* footer related */
