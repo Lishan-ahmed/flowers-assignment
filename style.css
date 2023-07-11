@@ -1,6 +1,7 @@
 /* nav related section */
 .primary-nav{
      display: flex;
+     justify-content: space-between;
      background: rgba(229, 84, 115, 0.10); 
 }
 .image-info{
@@ -57,8 +58,8 @@
     display: flex;
     gap: 15px;
     margin-top: 100px;
-    margin-left: 300px;
-    margin-right: 300px;
+    justify-content: space-around;
+  
 }
 .section-title{
     display: flex;
@@ -110,11 +111,11 @@
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
-    margin: 0px 700px; 
+   
 }
 .Social-media{
     display: flex;
-    margin: 24px 300px;
+    margin: 24px ;
     gap: 20px;
 }
 
